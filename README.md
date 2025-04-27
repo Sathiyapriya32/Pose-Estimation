@@ -11,15 +11,6 @@ Make sure you have the following installed:
 - `mediapipe`
 - `numpy`
 
-## Installation
-
-To set up the environment, run the following commands:
-
-```bash
-pip install opencv-python mediapipe numpy
-
-----
-
 ## 📸 Screenshot
 ![Screenshot 2025-04-27 at 12 59 36 PM](https://github.com/user-attachments/assets/f8c637c7-2369-4f76-b38e-7fb210ac4d91)
 
@@ -46,3 +37,10 @@ The frame with detected landmarks is displayed in a window. Press 'q' to exit th
 ## 🎥 Explanation Video
 
 🎥 [Watch the Video](https://www.linkedin.com/posts/sathiyapriya-s-22ucs048_facedetection-ai-computervision-activity-7237469650450554880-Q7rZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKubiABTjioeFLfoGOrHXFNNCGvYJ6moX8)
+
+## Installation
+
+To set up the environment, run the following commands:
+
+```bash
+pip install opencv-python mediapipe numpy
